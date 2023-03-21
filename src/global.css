@@ -1,0 +1,11 @@
+.css-10gf8jm {
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: #1e192c;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
